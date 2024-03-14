@@ -7,6 +7,21 @@ use Illuminate\Support\Facades\Auth;
 
 class HomeController extends Controller
 {
+    public function index()
+    {
+        return view('home.userpage');
+    }
+
+    public function about()
+    {
+        return view('home.about');
+    }
+
+    public function services()
+    {
+        return view('home.services');
+    }
+
     public function redirect()
     {
         $usertype=Auth::user()->usertype;
