@@ -16,13 +16,9 @@
 
     <!-- Additional CSS Files -->
     <link rel="stylesheet" href="home/assets/css/fontawesome.css">
-    <link rel="stylesheet" href="home/assets/css/templatemo-finance-business.css">
+    <link rel="stylesheet" href="home/assets/css/styles.css">
     <link rel="stylesheet" href="home/assets/css/owl.css">
 <!--
-
-Finance Business TemplateMo
-
-https://templatemo.com/tm-545-finance-business
 
 -->
   </head>
@@ -63,7 +59,7 @@ https://templatemo.com/tm-545-finance-business
     <header class="">
       <nav class="navbar navbar-expand-lg">
         <div class="container">
-          <a class="navbar-brand" href="index.html"><h2>Finance Business</h2></a>
+          <img src="home/assets/images/goated_logo.png" class="img-responsive">
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -97,8 +93,8 @@ https://templatemo.com/tm-545-finance-business
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <h1>About Us</h1>
-            <span>We have over 20 years of experience</span>
+            <h1>Goated</h1>
+            <span>Perusahaan Startup Investasi Hewan Ternak Kambing</span>
           </div>
         </div>
       </div>
@@ -112,11 +108,9 @@ https://templatemo.com/tm-545-finance-business
               <div class="row">
                 <div class="col-md-6 align-self-center">
                   <div class="right-content">
-                    <span>our solid background on finance</span>
+                    <span>latar belakang perusahaan kami</span>
                     <h2>Get to know about <em>our company</em></h2>
-                    <p>Fusce nec ultrices lectus. Duis nec scelerisque risus. Ut id tempor turpis, ac dignissim ipsum. Nulla ullamcorper, ipsum vel condimentum congue, mi odio vehicula tellus, sit amet malesuada justo sem. 
-                    <br><br>Pellentesque in sagittis lacus, vel auctor sem. Quisque eu quam eleifend, ullamcorper dui nec, luctus quam.</p>
-                    <a href="" class="filled-button">Read More</a>
+                    <p>Goated adalah platform yang didirikan oleh perusahaan kami PT CompanEase dengan lini bisnis yaitu sektor perternakan. Start-up ini bergerak pada bidang peternakan yang bertujuan untuk membantu orang yang ingin melakukan investasi namun dalam bentuk peternakan. Dengan platform ini, diharapkan dapat membantu meningkatkan kesejahteraan dari peternak yang memiliki keterampilan dalam beternak dalam mengelola hewan ternak, namun tidak memiliki dana yang cukup untuk mengembangkan peternakannya secara mandiri. </p>
                   </div>
                 </div>
                 <div class="col-md-6">
@@ -131,139 +125,163 @@ https://templatemo.com/tm-545-finance-business
       </div>
     </div>
 
+    <div class="visimisi">
+      <div class="container">
+        <div class="row">
+        <div class="col-md-12">
+            <div class="section-heading">
+                <h10>Visi & Misi</h10>
+                <h5>Harapan dan Tujuan dari Platform kami.</h5>
+              </div>
+          </div>
+          <div class="col-md-6">
+            <div class="section-heading">
+                <h2><em>Visi</em></h2>
+                <span2>Menjadi Start-up peternakan yang menyediakan hewan ternak sebagai investasi unggul dan  sebagai investasi jangka panjang. Kemudian juga menyediakan hewan yang dapat dijadikan untuk berkurban maupun aqiqah dengan ....... baik, untuk membantu masyarakat dalam mewujudkan ibadahnya dan kesejahteraan di masa depan. </span2>
+              </div>
+          </div>
+          <div class="col-md-6">
+            <div class="section-heading">
+                <h2><em>Misi</em></h2>
+                <span2>1. Memberikan peluang investasi peternakan yang aman, menguntungkan dan berkelanjutan </span2>
+                <span2>2. Menyediakan hewan ternak berkualitas tinggi, untuk kurban dan aqiqah dengan layanan mudah dan terpercaya. </span2>
+                <span2>3. Meningkatkan pendapatan dan kesejahteraan peternak melalui akses teknologi. </span2>
+              </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
     <div class="team">
       <div class="container">
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2>Our team <em>members</em></h2>
-              <span>Suspendisse a ante in neque iaculis lacinia</span>
+              <h2><em>Anggota</em> Tim Kami</h2>
+              <span>Bright, Fast, Adaptive.</span>
             </div>
           </div>
           <div class="col-md-4">
             <div class="team-item">
-              <img src="assets/images/team_01.jpg" alt="">
+              <img src="home/assets/images/team_01.jpeg" alt="">
               <div class="down-content">
-                <h4>William Smith</h4>
-                <span>Co-Founder</span>
-                <p>In sem sem, dapibus non lacus auctor, ornare sollicitudin lacus. Aliquam ipsum urna, semper quis.</p>
+                <h4>Fachri Julianda</h4>
+                <span>Project Manager</span>
+                <p>pa pi pu pe po pa pi pu pe po pa pi pu pe po pa pi pu pe po.</p>
               </div>
             </div>
           </div>
           <div class="col-md-4">
             <div class="team-item">
-              <img src="assets/images/team_02.jpg" alt="">
+              <img src="home/assets/images/team_01.jpeg" alt="">
               <div class="down-content">
-                <h4>Mary Houston</h4>
-                <span>Chief Marketing Officer</span>
-                <p>In sem sem, dapibus non lacus auctor, ornare sollicitudin lacus. Aliquam ipsum urna, semper quis.</p>
+                <h4>Erdika Nabila Rizkania</h4>
+                <span>System Analyst</span>
+                <p>pa pi pu pe po pa pi pu pe po pa pi pu pe po pa pi pu pe po.</p>
               </div>
             </div>
           </div>
           <div class="col-md-4">
             <div class="team-item">
-              <img src="assets/images/team_03.jpg" alt="">
+              <img src="home/assets/images/team_01.jpeg" alt="">
               <div class="down-content">
-                <h4>Paul Walker</h4>
-                <span>Financial Analyst</span>
-                <p>In sem sem, dapibus non lacus auctor, ornare sollicitudin lacus. Aliquam ipsum urna, semper quis.</p>
+                <h4>Salasa Nopa Munika </h4>
+                <span>System Analyst</span>
+                <p>pa pi pu pe po pa pi pu pe po pa pi pu pe po pa pi pu pe po.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="team-item">
+              <img src="home/assets/images/team_01.jpeg" alt="">
+              <div class="down-content">
+                <h4>Atira Salsabilla</h4>
+                <span>Sales Marketing</span>
+                <p>pa pi pu pe po pa pi pu pe po pa pi pu pe po pa pi pu pe po.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="team-item">
+              <img src="home/assets/images/team_01.jpeg" alt="">
+              <div class="down-content">
+                <h4>Rivo Ayulga Satria</h4>
+                <span>Sales Marketing</span>
+                <p>pa pi pu pe po pa pi pu pe po pa pi pu pe po pa pi pu pe po.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="team-item">
+              <img src="home/assets/images/team_01.jpeg" alt="">
+              <div class="down-content">
+                <h4>Satria Rangga Maulana </h4>
+                <span>UI & UX Designer</span>
+                <p>pa pi pu pe po pa pi pu pe po pa pi pu pe po pa pi pu pe po.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="team-item">
+              <img src="home/assets/images/team_01.jpeg" alt="">
+              <div class="down-content">
+                <h4>Ranti Zia Ramadania</h4>
+                <span>UI & UX Designer</span>
+                <p>pa pi pu pe po pa pi pu pe po pa pi pu pe po pa pi pu pe po.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="team-item">
+              <img src="home/assets/images/team_01.jpeg" alt="">
+              <div class="down-content">
+                <h4>Andreanus Eko Putra </h4>
+                <span>Programmer</span>
+                <p>pa pi pu pe po pa pi pu pe po pa pi pu pe po pa pi pu pe po.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="team-item">
+              <img src="home/assets/images/team_01.jpeg" alt="">
+              <div class="down-content">
+                <h4>Khalid Ibnu Natsir </h4>
+                <span>Programming</span>
+                <p>pa pi pu pe po pa pi pu pe po pa pi pu pe po pa pi pu pe po.</p>
               </div>
             </div>
           </div>
         </div>
       </div>
     </div>
+    <br><br><br><br><br>
 
-    <div class="fun-facts">
+    <div class="partners">
       <div class="container">
-        <div class="row">
-          <div class="col-md-6">
-            <div class="left-content">
-              <span>Lorem ipsum dolor sit amet</span>
-              <h2>Our solutions for your <em>business growth</em></h2>
-              <p>Pellentesque ultrices at turpis in vestibulum. Aenean pretium elit nec congue elementum. Nulla luctus laoreet porta. Maecenas at nisi tempus, porta metus vitae, faucibus augue. 
-              <br><br>Fusce et venenatis ex. Quisque varius, velit quis dictum sagittis, odio velit molestie nunc, ut posuere ante tortor ut neque.</p>
-              <a href="" class="filled-button">Read More</a>
-            </div>
-          </div>
-          <div class="col-md-6 align-self-center">
-            <div class="row">
-              <div class="col-md-6">
-                <div class="count-area-content">
-                  <div class="count-digit">945</div>
-                  <div class="count-title">Work Hours</div>
-                </div>
-              </div>
-              <div class="col-md-6">
-                <div class="count-area-content">
-                  <div class="count-digit">1280</div>
-                  <div class="count-title">Great Reviews</div>
-                </div>
-              </div>
-              <div class="col-md-6">
-                <div class="count-area-content">
-                  <div class="count-digit">578</div>
-                  <div class="count-title">Projects Done</div>
-                </div>
-              </div>
-              <div class="col-md-6">
-                <div class="count-area-content">
-                  <div class="count-digit">26</div>
-                  <div class="count-title">Awards Won</div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="testimonials">
-      <div class="container">
+        <h2 style="text-align: center;">Didukung Oleh</h2>
+        <br>
         <div class="row">
           <div class="col-md-12">
-            <div class="section-heading">
-              <h2>What they say <em>about us</em></h2>
-              <span>testimonials from our greatest clients</span>
-            </div>
-          </div>
-          <div class="col-md-12">
-            <div class="owl-testimonials owl-carousel">
-              
-              <div class="testimonial-item">
-                <div class="inner-content">
-                  <h4>George Walker</h4>
-                  <span>Chief Financial Analyst</span>
-                  <p>"Nulla ullamcorper, ipsum vel condimentum congue, mi odio vehicula tellus, sit amet malesuada justo sem sit amet quam. Pellentesque in sagittis lacus."</p>
-                </div>
-                <img src="http://placehold.it/60x60" alt="">
+            <div class="owl-partners owl-carousel">
+            
+              <div class="partner-item">
+                <img src="home/assets/images/client-01.png" title="1" alt="1">
               </div>
               
-              <div class="testimonial-item">
-                <div class="inner-content">
-                  <h4>John Smith</h4>
-                  <span>Market Specialist</span>
-                  <p>"In eget leo ante. Sed nibh leo, laoreet accumsan euismod quis, scelerisque a nunc. Mauris accumsan, arcu id ornare malesuada, est nulla luctus nisi."</p>
-                </div>
-                <img src="http://placehold.it/60x60" alt="">
+              <div class="partner-item">
+                <img src="home/assets/images/client-01.png" title="2" alt="2">
               </div>
               
-              <div class="testimonial-item">
-                <div class="inner-content">
-                  <h4>David Wood</h4>
-                  <span>Chief Accountant</span>
-                  <p>"Ut ultricies maximus turpis, in sollicitudin ligula posuere vel. Donec finibus maximus neque, vitae egestas quam imperdiet nec. Proin nec mauris eu tortor consectetur tristique."</p>
-                </div>
-                <img src="http://placehold.it/60x60" alt="">
+              <div class="partner-item">
+                <img src="home/assets/images/client-01.png" title="3" alt="3">
               </div>
               
-              <div class="testimonial-item">
-                <div class="inner-content">
-                  <h4>Andrew Boom</h4>
-                  <span>Marketing Head</span>
-                  <p>"Curabitur sollicitudin, tortor at suscipit volutpat, nisi arcu aliquet dui, vitae semper sem turpis quis libero. Quisque vulputate lacinia nisl ac lobortis."</p>
-                </div>
-                <img src="http://placehold.it/60x60" alt="">
+              <div class="partner-item">
+                <img src="home/assets/images/client-01.png" title="4" alt="4">
+              </div>
+              
+              <div class="partner-item">
+                <img src="home/assets/images/client-01.png" title="5" alt="5">
               </div>
               
             </div>
@@ -277,33 +295,27 @@ https://templatemo.com/tm-545-finance-business
       <div class="container">
         <div class="row">
           <div class="col-md-3 footer-item">
-            <h4>Finance Business</h4>
-            <p>Vivamus tellus mi. Nulla ne cursus elit,vulputate. Sed ne cursus augue hasellus lacinia sapien vitae.</p>
+            <h4>Follow Us</h4>
             <ul class="social-icons">
-              <li><a rel="nofollow" href="https://fb.com/templatemo" target="_blank"><i class="fa fa-facebook"></i></a></li>
-              <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+              <li><a href="#"><i class="fa fa-whatsapp"></i></a></li>
+              <li><a href="#"><i class="fa fa-instagram"></i></a></li>
               <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-              <li><a href="#"><i class="fa fa-behance"></i></a></li>
             </ul>
           </div>
           <div class="col-md-3 footer-item">
-            <h4>Useful Links</h4>
+            <h4>Kontak Kami</h4>
             <ul class="menu-list">
-              <li><a href="#">Vivamus ut tellus mi</a></li>
-              <li><a href="#">Nulla nec cursus elit</a></li>
-              <li><a href="#">Vulputate sed nec</a></li>
-              <li><a href="#">Cursus augue hasellus</a></li>
-              <li><a href="#">Lacinia ac sapien</a></li>
+              <li><a href="#">Jl. H.R.A Rahman Gg. Selamat 2 No.10,Sungai Jawi Dalam, Pontianak Barat, Pontianak, West Kalimantan 78244</a></li>
             </ul>
           </div>
           <div class="col-md-3 footer-item">
             <h4>Additional Pages</h4>
             <ul class="menu-list">
-              <li><a href="#">About Us</a></li>
-              <li><a href="#">How We Work</a></li>
-              <li><a href="#">Quick Support</a></li>
-              <li><a href="#">Contact Us</a></li>
-              <li><a href="#">Privacy Policy</a></li>
+              <li><a href="#">Tentang Kami</a></li>
+              <li><a href="#">Produk & Jasa</a></li>
+              <li><a href="#">Syarat dan Ketentuan</a></li>
+              <li><a href="#">Kebijakan Privasi</a></li>
+              <li><a href="#">FAQ</a></li>
             </ul>
           </div>
           <div class="col-md-3 footer-item last-item">
@@ -343,9 +355,7 @@ https://templatemo.com/tm-545-finance-business
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <p>Copyright &copy; 2020 Financial Business Co., Ltd.
-            
-            - Design: <a rel="nofollow noopener" href="https://templatemo.com" target="_blank">TemplateMo</a></p>
+            <p>Copyright &copy; 2024 PT. CompanEase.
           </div>
         </div>
       </div>

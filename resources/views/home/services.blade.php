@@ -16,13 +16,9 @@
 
     <!-- Additional CSS Files -->
     <link rel="stylesheet" href="home/assets/css/fontawesome.css">
-    <link rel="stylesheet" href="home/assets/css/templatemo-finance-business.css">
+    <link rel="stylesheet" href="home/assets/css/styles.css">
     <link rel="stylesheet" href="home/assets/css/owl.css">
 <!--
-
-Finance Business TemplateMo
-
-https://templatemo.com/tm-545-finance-business
 
 -->
   </head>
@@ -63,7 +59,7 @@ https://templatemo.com/tm-545-finance-business
     <header class="">
       <nav class="navbar navbar-expand-lg">
         <div class="container">
-          <a class="navbar-brand" href="index.html"><h2>Finance Business</h2></a>
+          <img src="home/assets/images/goated_logo.png" class="img-responsive">
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -97,8 +93,8 @@ https://templatemo.com/tm-545-finance-business
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <h1>Our Services</h1>
-            <span>We are over 20 years of experience</span>
+            <h1>Jasa & Layanan Kami</h1>
+            <span>Konsisten, berkualitas, cepat tanggap.</span>
           </div>
         </div>
       </div>
@@ -109,37 +105,27 @@ https://templatemo.com/tm-545-finance-business
         <div class="row" id="tabs">
           <div class="col-md-4">
             <ul>
-              <li><a href='#tabs-1'>Market Analysis <i class="fa fa-angle-right"></i></a></li>
-              <li><a href='#tabs-2'>Financial Data <i class="fa fa-angle-right"></i></a></li>
-              <li><a href='#tabs-3'>Accounting Service <i class="fa fa-angle-right"></i></a></li>
-              <li><a href='#tabs-4'>Overall Evaluation <i class="fa fa-angle-right"></i></a></li>
+              <li><a href='#tabs-1'>GoatVest <i class="fa fa-angle-right"></i></a></li>
+              <li><a href='#tabs-2'>GoatCha <i class="fa fa-angle-right"></i></a></li>
+              <li><a href='#tabs-3'>GoatDrop <i class="fa fa-angle-right"></i></a></li>
             </ul>
           </div>
           <div class="col-md-8">
             <section class='tabs-content'>
               <article id='tabs-1'>
                 <img src="assets/images/single_service_01.jpg" alt="">
-                <h4>Market Analysis</h4>
-                <p>Vivamus sed feugiat elit. Pellentesque pretium, massa at placerat vehicula, neque turpis pulvinar tortor, eget convallis lorem odio non tortor. Donec massa est, fermentum sit amet felis ac, maximus luctus elit. Vivamus aliquet, dolor id imperdiet imperdiet, dui diam aliquet dui, a euismod metus enim ac velit. Vivamus eu tristique odio, vel tristique quam.
-                <br><br>Proin eu molestie risus. Etiam suscipit pretium odio, at consectetur nisi. Sed ut dolor in augue cursus ultrices. Vivamus mauris turpis, auctor vel facilisis in, tincidunt vel diam. Sed vitae scelerisque orci. Nunc non magna orci. Aliquam commodo mauris ante.</p>
+                <h4>GoatVest</h4>
+                <p>Berasal dari kata Goat dan Infest, dengan GoatVest, anda dapat berinfestasi dalam hewan ternak kambing dan bekerja sama dengan peternak kambing untuk dirawat oleh mereka. Dengan menyediakan modal usaha untuk mitra peternak lokal, anda dan juga memperoleh keuntungan dari hasil penjualan kambing serta produk kambing turunannya.</p>
               </article>
               <article id='tabs-2'>
                 <img src="assets/images/single_service_02.jpg" alt="">
-                <h4>Financial Data</h4>
-                <p>Sed ut dolor in augue cursus ultrices. Vivamus mauris turpis, auctor vel facilisis in, tincidunt vel diam. Sed vitae scelerisque orci. Nunc non magna orci. Aliquam commodo mauris ante, quis posuere nibh vestibulum sit amet
-                <br><br>Pellentesque pretium, massa at placerat vehicula, neque turpis pulvinar tortor, eget convallis lorem odio non tortor. Donec massa est, fermentum sit amet felis ac, maximus luctus elit. Vivamus aliquet, dolor id imperdiet imperdiet, dui diam aliquet dui, a euismod metus enim ac velit. Vivamus eu tristique odio, vel tristique quam.</p>
+                <h4>GoatCha</h4>
+                <p>Berasal dari kata Goat dan Gacha, fitur ini digunakan untuk memudahkan pengguna dalam melakukan transaksi jual beli kambing secara online. Pengguna dapat mencari kambing berdasarkan jenis, usia, dan lokasi. Melakukan perbandingan harga dari berbagai penjual yang bermitra dengan Goated, melakukan pemesanan dan pembayaran secara online.</p>
               </article>
               <article id='tabs-3'>
                 <img src="assets/images/single_service_03.jpg" alt="">
-                <h4>Accounting Service</h4>
-                <p>Mauris lobortis quam id dictum dignissim. Donec pellentesque erat dolor, cursus dapibus turpis hendrerit quis. Suspendisse at suscipit arcu. Nulla sed erat lectus. Nulla facilisi. In sit amet neque sapien. Donec scelerisque mi at gravida efficitur. Nunc lacinia a est eu malesuada. Curabitur eleifend elit sapien, sed pulvinar orci luctus eget. 
-                <br><br>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nunc vel ultrices nulla, ac tincidunt eros. Aenean quis tellus velit. Praesent pretium justo non auctor condimentum.</p>
-              </article>
-              <article id='tabs-4'>
-                <img src="assets/images/single_service_04.jpg" alt="">
-                <h4>Overall Evaluation</h4>
-                <p>Integer vehicula sapien quis dolor efficitur, eget molestie eros tempus. Curabitur sollicitudin, tortor at suscipit volutpat, nisi arcu aliquet dui, vitae semper sem turpis quis libero. Quisque vulputate lacinia nisl ac lobortis. Ut ultricies maximus turpis, in sollicitudin ligula posuere vel. 
-                <br><br>Donec finibus maximus neque, vitae egestas quam imperdiet nec. Proin nec mauris eu tortor consectetur tristique. Etiam suscipit ante a odio consequat, in ornare lacus suscipit. Cras ac libero massa. Quisque rhoncus velit feugiat vulputate mollis. Donec nisl eros, malesuada sed nisi id, condimentum condimentum quam.</p>
+                <h4>GoatDrop</h4>
+                <p>Berasal dari kata Goat dan Drop, fitur ini memungkinkan untuk melakukan pemesanan pengantaran hewan ternak yang dapat memudahkan pengguna dalam melakukan pemesanan hewan ternak di fitur GoatCha. Dengan adanya fitur ini menjadi lebih efisien dan dapat memberikan solusi pengiriman yang terpercaya.</p>
               </article>
             </section>
           </div>
@@ -147,99 +133,82 @@ https://templatemo.com/tm-545-finance-business
       </div>
     </div>
 
-    <div class="callback-form callback-services">
+    <br><br><br>
+    <!-- Page Content -->
+    <div class="page-heading header-text">
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <div class="section-heading">
-              <h2>Request a <em>call back</em></h2>
-              <span>interdum nisl ac urna tempor mollis</span>
-            </div>
-          </div>
-          <div class="col-md-12">
-            <div class="contact-form">
-              <form id="contact" action="" method="post">
-                <div class="row">
-                  <div class="col-lg-4 col-md-12 col-sm-12">
-                    <fieldset>
-                      <input name="name" type="text" class="form-control" id="name" placeholder="Full Name" required="">
-                    </fieldset>
-                  </div>
-                  <div class="col-lg-4 col-md-12 col-sm-12">
-                    <fieldset>
-                      <input name="email" type="text" class="form-control" id="email" pattern="[^ @]*@[^ @]*" placeholder="E-Mail Address" required="">
-                    </fieldset>
-                  </div>
-                  <div class="col-lg-4 col-md-12 col-sm-12">
-                    <fieldset>
-                      <input name="subject" type="text" class="form-control" id="subject" placeholder="Subject" required="">
-                    </fieldset>
-                  </div>
-                  <div class="col-lg-12">
-                    <fieldset>
-                      <textarea name="message" rows="6" class="form-control" id="message" placeholder="Your Message" required=""></textarea>
-                    </fieldset>
-                  </div>
-                  <div class="col-lg-12">
-                    <fieldset>
-                      <button type="submit" id="form-submit" class="border-button">Send Message</button>
-                    </fieldset>
-                  </div>
-                </div>
-              </form>
-            </div>
+            <h1>Daftar Sekarang</h1>
+            <span>Rasakan Keuntungan maksimal dan bantu sejahterakan peternak bersama ribuan orang lainnya di Goated</span>
+            <br>
+            <a class="filled-button" href="{{ route('register') }}">Daftar</a>
           </div>
         </div>
       </div>
     </div>
+
 
     <div class="partners">
       <div class="container">
+        <h2 style="text-align: center;">Didukung Oleh</h2>
+        <br>
         <div class="row">
           <div class="col-md-12">
             <div class="owl-partners owl-carousel">
+            
               <div class="partner-item">
-                <img src="assets/images/client-01.png" alt="">
+                <img src="home/assets/images/client-01.png" title="1" alt="1">
               </div>
+              
+              <div class="partner-item">
+                <img src="home/assets/images/client-01.png" title="2" alt="2">
+              </div>
+              
+              <div class="partner-item">
+                <img src="home/assets/images/client-01.png" title="3" alt="3">
+              </div>
+              
+              <div class="partner-item">
+                <img src="home/assets/images/client-01.png" title="4" alt="4">
+              </div>
+              
+              <div class="partner-item">
+                <img src="home/assets/images/client-01.png" title="5" alt="5">
+              </div>
+              
             </div>
           </div>
         </div>
       </div>
     </div>
-
 
     <!-- Footer Starts Here -->
     <footer>
       <div class="container">
         <div class="row">
           <div class="col-md-3 footer-item">
-            <h4>Finance Business</h4>
-            <p>Vivamus tellus mi. Nulla ne cursus elit,vulputate. Sed ne cursus augue hasellus lacinia sapien vitae.</p>
+            <h4>Follow Us</h4>
             <ul class="social-icons">
-              <li><a rel="nofollow" href="https://fb.com/templatemo" target="_blank"><i class="fa fa-facebook"></i></a></li>
-              <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+              <li><a href="#"><i class="fa fa-whatsapp"></i></a></li>
+              <li><a href="#"><i class="fa fa-instagram"></i></a></li>
               <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-              <li><a href="#"><i class="fa fa-behance"></i></a></li>
             </ul>
           </div>
           <div class="col-md-3 footer-item">
-            <h4>Useful Links</h4>
+            <h4>Kontak Kami</h4>
             <ul class="menu-list">
-              <li><a href="#">Vivamus ut tellus mi</a></li>
-              <li><a href="#">Nulla nec cursus elit</a></li>
-              <li><a href="#">Vulputate sed nec</a></li>
-              <li><a href="#">Cursus augue hasellus</a></li>
-              <li><a href="#">Lacinia ac sapien</a></li>
+              <li><a href="#">Jl. H.R.A Rahman Gg. Selamat 2 No.10,Sungai Jawi Dalam, Pontianak Barat, Pontianak, West Kalimantan 78244</a></li>
             </ul>
           </div>
           <div class="col-md-3 footer-item">
             <h4>Additional Pages</h4>
             <ul class="menu-list">
-              <li><a href="#">About Us</a></li>
-              <li><a href="#">How We Work</a></li>
-              <li><a href="#">Quick Support</a></li>
-              <li><a href="#">Contact Us</a></li>
-              <li><a href="#">Privacy Policy</a></li>
+              <li><a href="#">Tentang Kami</a></li>
+              <li><a href="#">Produk & Jasa</a></li>
+              <li><a href="#">Syarat dan Ketentuan</a></li>
+              <li><a href="#">Kebijakan Privasi</a></li>
+              <li><a href="#">FAQ</a></li>
             </ul>
           </div>
           <div class="col-md-3 footer-item last-item">
@@ -279,13 +248,12 @@ https://templatemo.com/tm-545-finance-business
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <p>Copyright &copy; 2020 Financial Business Co., Ltd.
-            
-            - Design: <a rel="nofollow noopener" href="https://templatemo.com" target="_blank">TemplateMo</a></p>
+            <p>Copyright &copy; 2024 PT. CompanEase.
           </div>
         </div>
       </div>
     </div>
+    
 
     <!-- Bootstrap core JavaScript -->
     <script src="home/vendor/jquery/jquery.min.js"></script>

@@ -13,10 +13,14 @@
 
     <!-- Bootstrap core CSS -->
     <link href="home/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    
+    <link href="home/css/bootstrap.min.css" rel="stylesheet">
+
+    <link href="home/css/bootstrap-icons.css" rel="stylesheet">
 
     <!-- Additional CSS Files -->
     <link rel="stylesheet" href="home/assets/css/fontawesome.css">
-    <link rel="stylesheet" href="home/assets/css/templatemo-finance-business.css">
+    <link rel="stylesheet" href="home/assets/css/styles.css">
     <link rel="stylesheet" href="home/assets/css/owl.css">
 <!--
 
@@ -98,8 +102,8 @@
                 <div class="text-content">
                   <h6>Terbaik di antara semua pilihan.</h6>
                   <h4>GoatVest</h4>
-                  <p>Anda dapat mendukung peternak kambing dengan menyediakan modal usaha dan juga memperoleh keuntungan dari hasil penjualan kambing serta produk kambing turunannya.</p>
-                  <a class="filled-button" href="{{ route('services') }}">Learn More</a>
+                  <p>Anda dapat mendukung peternak kambing dengan menyediakan modal usaha untuk peternak lokal dan juga memperoleh keuntungan dari hasil penjualan kambing serta produk kambing turunannya.</p>
+                  <a class="filled-button" href="{{ route('services') }}">Pelajari lebih lanjut</a>
                 </div>
             </div>
           </div>
@@ -111,7 +115,7 @@
                   <h6>Beli Hewan Ternak Kambing Tanpa Kendala</h6>
                   <h4>GoatCha</h4>
                   <p>Anda dalam melakukan transaksi jual beli kambing secara online. Pengguna dapat mencari kambing berdasarkan jenis, usia, dan lokasi. Melakukan perbandingan harga dari berbagai penjual yang bermitra dengan Goated.</p>
-                  <a class="filled-button" href="{{ route('services') }}">Learn More</a>
+                  <a class="filled-button" href="{{ route('services') }}">Pelajari lebih lanjut</a>
                 </div>
             </div>
           </div>
@@ -120,10 +124,10 @@
           <div class="item item-3">
             <div class="img-fill">
                 <div class="text-content">
-                  <h6>we have a solid background</h6>
+                  <h6>Pengantaran Hewan Ternak Kambing Tanpa Kendala</h6>
                   <h4>GoatDrop</h4>
                   <p>Anda dapat melakukan pemesanan pengantaran hewan ternak, memudahkan Anda dalam melakukan pemesanan hewan ternak di fitur GoatCha. Dengan adanya fitur ini menjadi lebih efisien dan dapat memberikan solusi pengiriman yang terpercaya. </p>
-                  <a class="filled-button" href="{{ route('services') }}">Learn More</a>
+                  <a class="filled-button" href="{{ route('services') }}">Pelajari lebih lanjut</a>
                 </div>
             </div>
           </div>
@@ -132,106 +136,6 @@
     </div>
     <!-- Banner Ends Here -->
 
-    <div class="request-form">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-8">
-            <h4>Request a call back right now ?</h4>
-            <span>Mauris ut dapibus velit cras interdum nisl ac urna tempor mollis.</span>
-          </div>
-          <div class="col-md-4">
-            <a href="contact.html" class="border-button">Contact Us</a>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="services">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12">
-            <div class="section-heading">
-              <h2>Financial <em>Services</em></h2>
-              <span>Aliquam id urna imperdiet libero mollis hendrerit</span>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="service-item">
-              <img src="assets/images/service_01.jpg" alt="">
-              <div class="down-content">
-                <h4>Digital Currency</h4>
-                <p>Sed tincidunt dictum lobortis. Aenean tempus diam vel augue luctus dignissim. Nunc ornare leo tortor.</p>
-                <a href="" class="filled-button">Read More</a>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="service-item">
-              <img src="assets/images/service_02.jpg" alt="">
-              <div class="down-content">
-                <h4>Market Analysis</h4>
-                <p>Sed tincidunt dictum lobortis. Aenean tempus diam vel augue luctus dignissim. Nunc ornare leo tortor.</p>
-                <a href="" class="filled-button">Read More</a>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="service-item">
-              <img src="assets/images/service_03.jpg" alt="">
-              <div class="down-content">
-                <h4>Historical Data</h4>
-                <p>Sed tincidunt dictum lobortis. Aenean tempus diam vel augue luctus dignissim. Nunc ornare leo tortor.</p>
-                <a href="" class="filled-button">Read More</a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="fun-facts">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-6">
-            <div class="left-content">
-              <span>Lorem ipsum dolor sit amet</span>
-              <h2>Our solutions for your <em>business growth</em></h2>
-              <p>Pellentesque ultrices at turpis in vestibulum. Aenean pretium elit nec congue elementum. Nulla luctus laoreet porta. Maecenas at nisi tempus, porta metus vitae, faucibus augue. 
-              <br><br>Fusce et venenatis ex. Quisque varius, velit quis dictum sagittis, odio velit molestie nunc, ut posuere ante tortor ut neque.</p>
-              <a href="" class="filled-button">Read More</a>
-            </div>
-          </div>
-          <div class="col-md-6 align-self-center">
-            <div class="row">
-              <div class="col-md-6">
-                <div class="count-area-content">
-                  <div class="count-digit">945</div>
-                  <div class="count-title">Work Hours</div>
-                </div>
-              </div>
-              <div class="col-md-6">
-                <div class="count-area-content">
-                  <div class="count-digit">1280</div>
-                  <div class="count-title">Great Reviews</div>
-                </div>
-              </div>
-              <div class="col-md-6">
-                <div class="count-area-content">
-                  <div class="count-digit">578</div>
-                  <div class="count-title">Projects Done</div>
-                </div>
-              </div>
-              <div class="col-md-6">
-                <div class="count-area-content">
-                  <div class="count-digit">26</div>
-                  <div class="count-title">Awards Won</div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
 
     <div class="more-info">
       <div class="container">
@@ -246,11 +150,175 @@
                 </div>
                 <div class="col-md-6 align-self-center">
                   <div class="right-content">
-                    <span>Who we are</span>
-                    <h2>Get to know about <em>our company</em></h2>
-                    <p>Curabitur pulvinar sem a leo tempus facilisis. Sed non sagittis neque. Nulla conse quat tellus nibh, id molestie felis sagittis ut. Nam ullamcorper tempus ipsum in cursus<br><br>Praes end at dictum metus. Morbi id hendrerit lectus, nec dapibus ex. Etiam ipsum quam, luctus eu egestas eget, tincidunt</p>
-                    <a href="#" class="filled-button">Read More</a>
+                    <h2>Kenali tentang perusahaan kami</em></h2>
+                    <p>Goated adalah platform yang didirikan oleh perusahaan kami PT CompanEase dengan lini bisnis yaitu sektor perternakan. Start-up ini bergerak pada bidang peternakan yang bertujuan untuk membantu orang yang ingin melakukan investasi namun dalam bentuk peternakan. Dengan platform ini, diharapkan dapat membantu meningkatkan kesejahteraan dari peternak yang memiliki keterampilan dalam beternak dalam mengelola hewan ternak, namun tidak memiliki dana yang cukup untuk mengembangkan peternakannya secara mandiri. </p>
+                    <a class="filled-button" href="{{ route('about') }}">Pelajari lebih lanjut</a>
                   </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <br><br><br>
+
+    <section class="timeline-section section-padding" id="section_3">
+                <div class="section-overlay"></div>
+
+                <div class="container">
+                    <div class="row">
+
+                        <div class="col-12 text-center">
+                            <h1 class="text-black mb-4">Bagaimana platform Goated bekerja?</h1>
+                        </div>
+
+                        <div class="col-lg-10 col-12 mx-auto">
+                            <div class="timeline-container">
+                                <ul class="vertical-scrollable-timeline" id="vertical-scrollable-timeline">
+                                    <div class="list-progress">
+                                        <div class="inner"></div>
+                                    </div>
+
+                                    <li>
+                                        <h3 class="custom-color">Investasi</h3>
+
+                                        <h5 class="text-black">Anda bisa bantu mendanai proyek budidaya petani melalui Fitur GoatVest kami.</h5>
+
+                                        <div class="icon-holder">
+                                            <i class="fa fa-money white-icon"></i>
+                                        </div>
+                                    </li>
+                                    
+                                    <li>
+                                        <h3 class="custom-color">Budidaya</h3>
+
+                                        <h5 class="text-black">Mitra Peternak Goated, menjalankan budidaya dari hewan ternak yang anda setorkan.</h5>
+
+                                        <div class="icon-holder">
+                                          <i class="fa fa-heart white-icon"></i>
+                                        </div>
+                                    </li>
+
+                                    <li>
+                                        <h3 class="custom-color">Jual</h3>
+
+                                        <h5 class="text-black">Kami dari pihak Goated menjual hewan ternak tersebut dengan kesepakatan anda.</h5>
+
+                                        <div class="icon-holder">
+                                        <i class="fa fa-usd white-icon"></i>
+                                        </div>
+                                    </li>
+
+                                    <li>
+                                        <h3 class="custom-color">Bagi Hasil</h3>
+
+                                        <h5 class="text-black">Setelah hewan ternak dijual, anda bisa mendapatkan keuntungan dari dana yang anda setorkan.</h5>
+
+                                        <div class="icon-holder">
+                                        <i class="fa fa-line-chart white-icon"></i>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+    <div class="services">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="section-heading">
+              <h2>Fitur Utama <em>Goated</em></h2>
+              <span>Goated menyediakan layanan dan produk untuk peternak kambing dan masyarakat umum.</span>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="service-item">
+              <img src="assets/images/service_01.jpg" alt="">
+              <div class="down-content">
+                <h4>GoatVest</h4>
+                <p>Berasal dari kata Goat dan Infest, dengan GoatVest, anda dapat berinfestasi dalam hewan ternak kambing dan bekerja sama dengan peternak kambing untuk dirawat oleh mereka. Dengan menyediakan modal usaha untuk mitra peternak lokal, anda dan juga memperoleh keuntungan dari hasil penjualan kambing serta produk kambing turunannya.</p>
+                <a class="filled-button" href="{{ route('services') }}">Pelajari lebih lanjut</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="service-item">
+              <img src="assets/images/service_02.jpg" alt="">
+              <div class="down-content">
+                <h4>GoatCha</h4>
+                <p>Berasal dari kata Goat dan Gacha, fitur ini digunakan untuk memudahkan pengguna dalam melakukan transaksi jual beli kambing secara online. Pengguna dapat mencari kambing berdasarkan jenis, usia, dan lokasi. Melakukan perbandingan harga dari berbagai penjual yang bermitra dengan Goated, melakukan pemesanan dan pembayaran secara online.</p>
+                <a class="filled-button" href="{{ route('services') }}">Pelajari lebih lanjut</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="service-item">
+              <img src="assets/images/service_03.jpg" alt="">
+              <div class="down-content">
+                <h4>GoatDrop</h4>
+                <p>Berasal dari kata Goat dan Drop, fitur ini memungkinkan untuk melakukan pemesanan pengantaran hewan ternak yang dapat memudahkan pengguna dalam melakukan pemesanan hewan ternak di fitur GoatCha. Dengan adanya fitur ini menjadi lebih efisien dan dapat memberikan solusi pengiriman yang terpercaya. </p>
+                <a class="filled-button" href="{{ route('services') }}">Pelajari lebih lanjut</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="fun-facts">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6">
+            <div class="left-content">
+              <h2>Mengapa Memilih <em>Goated</em>?</h2>
+              <p>Fokus Utama PT. CompanEase adalah menyediakan platform website bernama “Goated” yang berpotensi akan terus berkembang dan selalu dibutuhkan, bertujuan untuk memberikan kemudahan bagi seluruh kalangan masyarakat untuk berinvestasi sebagian harta mereka meskipun sedikit, serta mengembangkan bisnis peternakan lokal dengan pemberian modal untuk bisnis mereka. PT. CompanEase menjadi perantara yang sebagai jembatan komunikasi antara investor dengan mitra peternakan, serta sebagai pihak yang mengurus transaksi hewan ternak, sehingga mitra peternakan bisa berfokus untuk merawat hewan ternak investasi dengan maksimal. Investor bisa memilih untuk membeli, menjual, menginvestasikan hewan ternak mereka kepada mitra peternakan, dan bisa bertransaksi dengan harta jika tidak memiliki hewan ternak, opsi yang tersedia untuk di investasikan yaitu berupa Akikah, Qurban, atau dapat juga di kembang biakkan.  
+
+Transaksi binatang ternak memiliki Akad yang jelas, sehingga jika terjadi suatu bencana pada hewan investasi akan terminimalisir hal-hal yang tidak diinginkan. Dengan memanfaatkan teknologi sistem informasi, platform berbasis website “Goated” ini diharapkan dapat mensejahterakan serta menguntungkan  semua pihak yang terlibat. </p>
+            </div>
+          </div>
+          <div class="col-md-6 align-self-center">
+            <div class="row">
+              <div class="col-md-6">
+                <div class="count-area-content">
+                  <i class="fa fa-star white-icon fa-3x"></i>
+                  <div class="count-title">Platform bagi hasil terbaik</div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="count-area-content">
+                  <i class="fa fa-check white-icon fa-3x"></i>
+                  <div class="count-title">Dana Proyek Terkumpul</div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="count-area-content">
+                  <i class="fa fa-shield white-icon fa-3x"></i>
+                  <br><br>
+                  <div class="count-title">Aman Dan Profesional</div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="count-area-content">
+                  <i class="fa fa-users white-icon fa-3x"></i>
+                  <div class="count-title">Memberi Dampak Sosial</div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="count-area-content">
+                  <div class="count-digit">26</div>
+                  <div class="count-title">Pendana Goated</div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="count-area-content">
+                  <div style="display: inline-block;" class="count-text">Rp.</div>
+                  <div style="display: inline-block;" class="count-digit">13293753</div>
+                  <div class="count-title">Dana Proyek Terkumpul</div>
                 </div>
               </div>
             </div>
@@ -264,8 +332,7 @@
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2>What they say <em>about us</em></h2>
-              <span>testimonials from our greatest clients</span>
+              <h2>Pendapat Mereka</em></h2>
             </div>
           </div>
           <div class="col-md-12">
@@ -273,38 +340,34 @@
               
               <div class="testimonial-item">
                 <div class="inner-content">
-                  <h4>George Walker</h4>
-                  <span>Chief Financial Analyst</span>
-                  <p>"Nulla ullamcorper, ipsum vel condimentum congue, mi odio vehicula tellus, sit amet malesuada justo sem sit amet quam. Pellentesque in sagittis lacus."</p>
+                  <h4>Fulan1</h4>
+                  <span>Programing</span>
+                  <p>"Sangat bagus, saya suka sekali."</p>
                 </div>
-                <img src="http://placehold.it/60x60" alt="">
               </div>
               
               <div class="testimonial-item">
                 <div class="inner-content">
-                  <h4>John Smith</h4>
-                  <span>Market Specialist</span>
-                  <p>"In eget leo ante. Sed nibh leo, laoreet accumsan euismod quis, scelerisque a nunc. Mauris accumsan, arcu id ornare malesuada, est nulla luctus nisi."</p>
+                  <h4>Fulan2</h4>
+                  <span>Data Analyst</span>
+                  <p>"ih kerenyooooo, betul betul betul."</p>
                 </div>
-                <img src="http://placehold.it/60x60" alt="">
               </div>
               
               <div class="testimonial-item">
                 <div class="inner-content">
-                  <h4>David Wood</h4>
-                  <span>Chief Accountant</span>
-                  <p>"Ut ultricies maximus turpis, in sollicitudin ligula posuere vel. Donec finibus maximus neque, vitae egestas quam imperdiet nec. Proin nec mauris eu tortor consectetur tristique."</p>
+                  <h4>Fulan3</h4>
+                  <span>Accountant</span>
+                  <p>"Alamaaaaaaaaaaaaaaaaaaaak."</p>
                 </div>
-                <img src="http://placehold.it/60x60" alt="">
               </div>
               
               <div class="testimonial-item">
                 <div class="inner-content">
-                  <h4>Andrew Boom</h4>
-                  <span>Marketing Head</span>
-                  <p>"Curabitur sollicitudin, tortor at suscipit volutpat, nisi arcu aliquet dui, vitae semper sem turpis quis libero. Quisque vulputate lacinia nisl ac lobortis."</p>
+                  <h4>Fulan4</h4>
+                  <span>Enterpreneur</span>
+                  <p>"Alea Iacta Est."</p>
                 </div>
-                <img src="http://placehold.it/60x60" alt="">
               </div>
               
             </div>
@@ -313,47 +376,15 @@
       </div>
     </div>
 
-    <div class="callback-form">
+    <!-- Page Content -->
+    <div class="page-heading header-text">
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <div class="section-heading">
-              <h2>Request a <em>call back</em></h2>
-              <span>Etiam suscipit ante a odio consequat</span>
-            </div>
-          </div>
-          <div class="col-md-12">
-            <div class="contact-form">
-              <form id="contact" action="" method="post">
-                <div class="row">
-                  <div class="col-lg-4 col-md-12 col-sm-12">
-                    <fieldset>
-                      <input name="name" type="text" class="form-control" id="name" placeholder="Full Name" required="">
-                    </fieldset>
-                  </div>
-                  <div class="col-lg-4 col-md-12 col-sm-12">
-                    <fieldset>
-                      <input name="email" type="text" class="form-control" id="email" pattern="[^ @]*@[^ @]*" placeholder="E-Mail Address" required="">
-                    </fieldset>
-                  </div>
-                  <div class="col-lg-4 col-md-12 col-sm-12">
-                    <fieldset>
-                      <input name="subject" type="text" class="form-control" id="subject" placeholder="Subject" required="">
-                    </fieldset>
-                  </div>
-                  <div class="col-lg-12">
-                    <fieldset>
-                      <textarea name="message" rows="6" class="form-control" id="message" placeholder="Your Message" required=""></textarea>
-                    </fieldset>
-                  </div>
-                  <div class="col-lg-12">
-                    <fieldset>
-                      <button type="submit" id="form-submit" class="border-button">Send Message</button>
-                    </fieldset>
-                  </div>
-                </div>
-              </form>
-            </div>
+            <h1>Daftar Sekarang</h1>
+            <span>Rasakan Keuntungan maksimal dan bantu sejahterakan peternak bersama ribuan orang lainnya di Goated</span>
+            <br>
+            <a class="filled-button" href="{{ route('register') }}">Daftar</a>
           </div>
         </div>
       </div>
@@ -361,28 +392,30 @@
 
     <div class="partners">
       <div class="container">
+        <h2 style="text-align: center;">Didukung Oleh</h2>
+        <br>
         <div class="row">
           <div class="col-md-12">
             <div class="owl-partners owl-carousel">
             
               <div class="partner-item">
-                <img src="assets/images/client-01.png" title="1" alt="1">
+                <img src="home/assets/images/client-01.png" title="1" alt="1">
               </div>
               
               <div class="partner-item">
-                <img src="assets/images/client-01.png" title="2" alt="2">
+                <img src="home/assets/images/client-01.png" title="2" alt="2">
               </div>
               
               <div class="partner-item">
-                <img src="assets/images/client-01.png" title="3" alt="3">
+                <img src="home/assets/images/client-01.png" title="3" alt="3">
               </div>
               
               <div class="partner-item">
-                <img src="assets/images/client-01.png" title="4" alt="4">
+                <img src="home/assets/images/client-01.png" title="4" alt="4">
               </div>
               
               <div class="partner-item">
-                <img src="assets/images/client-01.png" title="5" alt="5">
+                <img src="home/assets/images/client-01.png" title="5" alt="5">
               </div>
               
             </div>
@@ -397,33 +430,27 @@
       <div class="container">
         <div class="row">
           <div class="col-md-3 footer-item">
-            <h4>Finance Business</h4>
-            <p>Vivamus tellus mi. Nulla ne cursus elit,vulputate. Sed ne cursus augue hasellus lacinia sapien vitae.</p>
+            <h4>Follow Us</h4>
             <ul class="social-icons">
-              <li><a rel="nofollow" href="https://fb.com/templatemo" target="_blank"><i class="fa fa-facebook"></i></a></li>
-              <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+              <li><a href="#"><i class="fa fa-whatsapp"></i></a></li>
+              <li><a href="#"><i class="fa fa-instagram"></i></a></li>
               <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-              <li><a href="#"><i class="fa fa-behance"></i></a></li>
             </ul>
           </div>
           <div class="col-md-3 footer-item">
-            <h4>Useful Links</h4>
+            <h4>Kontak Kami</h4>
             <ul class="menu-list">
-              <li><a href="#">Vivamus ut tellus mi</a></li>
-              <li><a href="#">Nulla nec cursus elit</a></li>
-              <li><a href="#">Vulputate sed nec</a></li>
-              <li><a href="#">Cursus augue hasellus</a></li>
-              <li><a href="#">Lacinia ac sapien</a></li>
+              <li><a href="#">Jl. H.R.A Rahman Gg. Selamat 2 No.10,Sungai Jawi Dalam, Pontianak Barat, Pontianak, West Kalimantan 78244</a></li>
             </ul>
           </div>
           <div class="col-md-3 footer-item">
             <h4>Additional Pages</h4>
             <ul class="menu-list">
-              <li><a href="#">About Us</a></li>
-              <li><a href="#">How We Work</a></li>
-              <li><a href="#">Quick Support</a></li>
-              <li><a href="#">Contact Us</a></li>
-              <li><a href="#">Privacy Policy</a></li>
+              <li><a href="#">Tentang Kami</a></li>
+              <li><a href="#">Produk & Jasa</a></li>
+              <li><a href="#">Syarat dan Ketentuan</a></li>
+              <li><a href="#">Kebijakan Privasi</a></li>
+              <li><a href="#">FAQ</a></li>
             </ul>
           </div>
           <div class="col-md-3 footer-item last-item">
@@ -463,14 +490,19 @@
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <p>Copyright &copy; 2020 Financial Business Co., Ltd.
-            
-            - Design: <a rel="nofollow noopener" href="https://templatemo.com" target="_blank">TemplateMo</a></p>
+            <p>Copyright &copy; 2024 PT. CompanEase.
           </div>
         </div>
       </div>
     </div>
 
+    <!-- JAVASCRIPT FILES -->
+    <script src="home/js/jquery.min.js"></script>
+    <script src="home/js/bootstrap.bundle.min.js"></script>
+    <script src="home/js/jquery.sticky.js"></script>
+    <script src="home/js/click-scroll.js"></script>
+    <script src="home/js/custom.js"></script>
+    
     <!-- Bootstrap core JavaScript -->
     <script src="home/vendor/jquery/jquery.min.js"></script>
     <script src="home/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
