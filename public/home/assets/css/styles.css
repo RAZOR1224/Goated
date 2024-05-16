@@ -1,4 +1,51 @@
 
+.center-container {
+	position: scrollable;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Adjust as needed for your layout */
+    overflow-y: auto; /* Enable vertical scrolling if content exceeds viewport */
+}
+
+.login {
+    display: inline-block;
+    background-color: white;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px; /* Adjust the border-radius for rounded corners */
+    max-width: 1000px; /* Adjust the maximum width as needed */
+	position: scroll;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add a shadow for better visibility */
+}
+
+.login .form-group {
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+.login .form-label {
+    display: inline-block;
+    width: 800px; /* Adjust width as needed */
+}
+
+.login .form-input {
+    display: inline-block;
+    width: calc(180% - 10px); /* Adjust width as needed */
+	max-width: 600px; /* Adjust the maximum width as needed */
+}
+
+.login .form-checkbox {
+    display: inline-block;
+    margin-top: 5px;
+}
+
+.login .form-button {
+    display: inline-block;
+    margin-left: 10px;
+}
+
+
 
 .img-responsive {
     width: 12%; /* Image takes up 100% of the container's width */
@@ -354,6 +401,7 @@ header .navbar {
 	line-height: 26px;
 	font-family: 'FontAwesome';
 }
+
 
 
 
@@ -1188,6 +1236,46 @@ footer .contact-form button.filled-button:hover {
 	margin-bottom: 20px;
 }
 
+/* artikel */
+
+.artikel {
+	background-color: #f7f7f7;
+	margin-top: 140px;
+	margin-bottom: 100px;
+	padding: 120px 0px;
+}
+
+
+.artikel-item img {
+	margin-top: 30px;
+	width: 100%;
+	overflow: hidden;
+}
+
+.artikel-item .down-content {
+	background-color: #fff;
+	padding: 30px;
+}
+
+.artikel-item .down-content h4 {
+	font-size: 20px;
+	font-weight: 700;
+	letter-spacing: 0.25px;
+	margin-bottom: 10px;
+}
+
+.artikel-item .down-content span {
+	color: #468848;
+	font-weight: 600;
+	font-size: 14px;
+	display: block;
+	margin-bottom: 15px;
+}
+
+.artikel-item .down-content p {
+	margin-bottom: 20px;
+}
+
 
 /* Single Service */
 
@@ -1592,3 +1680,11 @@ footer .contact-form button.filled-button:hover {
 .custom-color {
 	color: #468848;
   }
+
+.h10{
+	text-transform: capitalize;
+	font-size: 1000px;
+	font-weight: 700;
+	letter-spacing: 2px;
+	margin-bottom: 18px;
+}

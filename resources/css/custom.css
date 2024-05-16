@@ -1,0 +1,15 @@
+body {
+    /* Set background image */
+    background-image: url('/home/assets/images/slide_03.jpg');
+    /* Adjust background image properties */
+    background-size: cover;
+    background-position: center;
+    /* Add any other styles you want for the body */
+}
+
+/* Style the logo image */
+.navbar img {
+    width: 100px; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+    /* Add any other styles you want for the logo */
+}
